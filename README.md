@@ -8,5 +8,10 @@ The small script redirects to another lite version of the webpage of the users I
 *Obtain API Key
 *Make required chages to the values in the main webpage containing the script. Comments Inclded for help
 
+## Live Demo
+
+*A live demo can be found at http://flictech.in/magnovite
+
 ##DISCLAIMER
-I do not own any scripts provided by http://speedof.me/
+*I do not own any scripts provided by http://speedof.me/
+
