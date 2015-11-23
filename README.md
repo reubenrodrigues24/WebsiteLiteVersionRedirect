@@ -4,8 +4,8 @@ The small script redirects to another lite version of the webpage of the users I
 
 ## How to Set-Up
 
-*Create account at http://speedof.me/
-*Obtain API Key
+*Create account at http://speedof.me/<br />
+*Obtain API Key<br />
 *Make required chages to the values in the main webpage containing the script. Comments Inclded for help
 
 ## Live Demo
