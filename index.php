@@ -30,5 +30,9 @@ function onError(error) {
 msgDiv.innerHTML = "Error "+ error.code + ": "+error.message; //incase there is an error.
 }
 </script>
+
+<!-- You can continue parsing your Heavy webpage here/-->
+
+
 </body>
 </html>
